@@ -3,6 +3,7 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Camera" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Emotion-detection" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Emotion-detection-master" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/EmotionDetection" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/ObjectDetection/yolov5" vcs="Git" />
